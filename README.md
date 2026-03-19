@@ -1,6 +1,4 @@
 # Evaluacion_U4_Markdown_APSL
-# Evaluación de Markdown
-
 ## Proceso de Configuración
 
 1. Abrí GitHub Desktop en mi computadora.
